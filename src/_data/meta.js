@@ -1,6 +1,6 @@
 module.exports = {
   // keep it short! shown in the header
-  title: 'Frontend Masters: Serverless with Jason Lengstorf',
+  title: 'Dios V is learning Serverless Functions!',
 
   // these are all optional and add links to the footer
   repo: 'jlengstorf/frontendmasters-serverless',
